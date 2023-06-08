@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color:#000}
+.trg{background-color:#CCC}
+.rsc{background-color:#CCF}
+.ct4{background-color:#6C0}
+.ct5{background-color:#636}
+.ct7{background-color:#066}
+.crr{background-color:#3CC}
+h1{font-family:Broadway; font-size:40px; text-align:center}
+h2{font-family:Calibri; font-size:12px; text-align:justify}
+h3{font-family:Broadway; font-size:25px; text-align:center}
+.jt{text-align:center}
+h4 {font-family:GOUDY STOUT; font-size:40px; text-align:center; color:#FFF}
+h5 {font-family:Times New Roman; font-size:20px; text-align:justify; color:#FFF; padding:15px}
